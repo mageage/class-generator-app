@@ -1,1 +1,1 @@
-Generates Poczta Polska classes from one their one stupid file
+Generates Poczta Polska classes from their one ApiClasses.php stupid file
